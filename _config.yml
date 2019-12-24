@@ -1,0 +1,19 @@
+title: "Mangala El Charif"
+description: "Mangala El Charif's official website: a writer, philosopher and a creative"
+github_username: mangalacharif
+baseurl: ""
+url: "mangalacharif.github.io"
+
+plugins:
+  - jekyll-remote-theme
+  - jemoji
+
+remote_theme: tareqdandachi/sandslate
+
+sass:
+  style: compressed
+
+highlighter: rouge
+
+header_pages:
+  - index.md
