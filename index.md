@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-stylesheet: resources/home.css
+stylesheet: /resources/main.css
 ---
 
 {:.page_title}

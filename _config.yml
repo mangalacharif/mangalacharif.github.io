@@ -1,6 +1,8 @@
 title: "Mangala El Charif"
 description: "Mangala El Charif's official website: a writer, philosopher and a creative"
 github_username: mangalacharif
+twitter: mangalacharif
+email: mangalacharif@yahoo.com
 baseurl: ""
 url: "mangalacharif.github.io"
 
@@ -21,3 +23,4 @@ header_pages:
   - index.md
   - knight_of_the_desert.md
   - thesis.md
+  - events.md
