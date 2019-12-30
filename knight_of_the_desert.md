@@ -1,21 +1,19 @@
 ---
+layout: book
+stylesheet: /resources/book.css
+
+# Title of the Book
 title: Knight of the Desert
-layout: page
 
-stylesheet: resources/book.css
+# reserved for language usually
+subtitle: In Arabic (English Coming Soon)
+
+# Short Description of the book
+description: This book explores the cognitive depth and the philosophical and psychological dimensions of the sayings of Sheikh Zayed bin Sultan Al Nahyan.
+
+# Anything after the three minus signs is markdown code you wanna include on this page
+# Such as a synopsis or link to buying the book, extra images etc.
 ---
-
-<div class="book_preview_block">
-  <img class="book_cover" src="resources/book_cover.jpg" alt="Book Cover">
-  <div class="right_half">
-    <h1>Knight of the Desert</h1>
-    <h2>In Arabic (English Coming Soon)</h2>
-    <p>This book explores the cognitive depth and the philosophical and psychological dimensions of the sayings of Sheikh Zayed bin Sultan Al Nahyan. </p>
-  </div>
-</div>
-
-{:.teaser}
-⤋ &nbsp; Synopsis &nbsp; ⤋
 
 # Synopsis
 
