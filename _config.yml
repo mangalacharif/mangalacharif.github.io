@@ -20,3 +20,4 @@ highlighter: rouge
 header_pages:
   - index.md
   - knight_of_the_desert.md
+  - thesis.md

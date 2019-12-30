@@ -2,6 +2,8 @@
 layout: book
 stylesheet: /resources/book.css
 
+cover_url: /resources/kotd.jpg
+
 # Title of the Book
 title: Knight of the Desert
 

@@ -8,7 +8,7 @@ stylesheet: resources/home.css
 #### Writer, Philosopher and a Creative
 # Mangala El Charif
 
-![](/resources/home.jpg)
+![Picture of Mangala El Charif with a city background](/resources/home.jpg)
 
 ### I am a trilingual writer and academic researcher specializing in comparative literature, holding a Ph.D degree from the Sorbonne University in Paris.
 
