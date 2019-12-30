@@ -1,0 +1,36 @@
+.book_preview_block {
+
+  vertical-align: top;
+  margin-top: 10vh;
+  margin-bottom: 20vh;
+
+}
+
+.book_cover {
+
+  height: 100vh;
+  object-fit: contain;
+  width: 20vw;
+  display: inline-block;
+  vertical-align: middle;
+  margin-top: 0px;
+  margin-right: 3vw;
+
+}
+
+.right_half {
+
+  display: inline-block;
+  width: 40vw;
+  vertical-align: middle;
+
+}
+
+.teaser {
+
+  text-align: center;
+  font-size: 0.8em;
+  color: var(--faded);
+  margin-top: -2em;
+
+}

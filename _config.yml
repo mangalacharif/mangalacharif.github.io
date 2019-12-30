@@ -7,6 +7,8 @@ url: "mangalacharif.github.io"
 plugins:
   - jekyll-remote-theme
   - jemoji
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 remote_theme: tareqdandachi/sandslate
 
@@ -17,3 +19,4 @@ highlighter: rouge
 
 header_pages:
   - index.md
+  - knight_of_the_desert.md
