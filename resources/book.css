@@ -34,3 +34,17 @@
   margin-top: -2em;
 
 }
+
+@media only screen and (max-width: 980px) {
+
+  .book_cover { position: relative; width: 100%; padding: 0; margin: 0; margin-bottom: 4em; }
+
+  .right_half { width: 100%; }
+
+  .right_half p { font-size: 1.2em; text-align: left; margin-top: 2em; }
+
+  .book_preview_block { margin-bottom: 10vh; }
+
+  .teaser { display: none; }
+
+}
