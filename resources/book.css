@@ -35,6 +35,12 @@
 
 }
 
+.no_margin {
+
+  margin-bottom: 0px !important;
+
+}
+
 @media only screen and (max-width: 980px) {
 
   .book_cover { position: relative; width: 100%; padding: 0; margin: 0; margin-bottom: 4em; }
@@ -46,5 +52,7 @@
   .book_preview_block { margin-bottom: 10vh; }
 
   .teaser { display: none; }
+
+  .hideOnMobile { display: none; }
 
 }
