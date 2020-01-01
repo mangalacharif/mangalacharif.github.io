@@ -11,7 +11,7 @@ stylesheet: /resources/book.css
   <div class="right_half">
     <h1>PhD Thesis</h1>
     <h2>In French</h2>
-    <p>Saint John Perse and Adonis, Comparative Poetry.<br> &nbsp; - 2003, Sorbonne University Paris 3.</p>
+    <p>Saint-John Perse and Adonis, Comparative Poetry.<br> &nbsp; - 2003, Sorbonne University Paris 3.</p>
   </div>
 </div>
 
