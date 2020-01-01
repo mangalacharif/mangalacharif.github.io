@@ -20,5 +20,6 @@ The launching ceremony was witnessed by His Excellency Sheikh Nahyan bin Mubarak
 
 The ceremony was also attended by His Excellency Dr. Saeed Ahmed Ghobash, Supreme President of the Emirates University, His Excellency Mubarak Al Shamsi, Director General of the Abu Dhabi Center for Technical and Vocational Education and Training, Maitha Al Habsi, CEO of the Emirates Foundation, and Mohamed Salem Al Dhaheri, Advisor to the Head of the Education and Knowledge Department, and Dina Assaf, United Nations Coordinator, Dr. Sulaiman Al Hattlan, founder and president The CEO of Hatlan Media and a number of intellectuals, writers and thinkers.
 
-
+{:.multicols.fullheight}
+![](resources/invitation.gif)
 ![](resources/amnz.png)
