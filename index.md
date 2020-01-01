@@ -13,7 +13,7 @@ stylesheet: /resources/main.css
 ### I am a Lebanese trilingual writer and academic researcher specializing in comparative literature. I received my Ph.D from the the Sorbonne University in Paris with highest honors.
 
 <div class="block_link">
-  <a href="thesis">More About My Thesis</a>
+  <a href="thesis">More About My Theses</a>
 </div>
 
 <br>
