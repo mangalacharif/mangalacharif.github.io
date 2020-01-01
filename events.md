@@ -5,9 +5,9 @@ stylesheet: /resources/main.css
 ---
 
 
-<video autoplay loop muted poster="resources/adbf.jpg" preload="auto">
-    <source src="resources/events.mp4" type="video/mp4">
+<video autoplay loop muted playsinline poster="resources/adbf.jpg" preload="auto">
     <source src="resources/events.webm" type="video/webm">
+    <source src="resources/events.mp4" type="video/mp4">
     Your device doesn't support this video.
 </video>
 

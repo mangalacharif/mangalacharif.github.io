@@ -7,7 +7,7 @@ stylesheet: /resources/book.css
 ![](/resources/thesis.jpg)
 
 <div class="book_preview_block no_margin">
-  <img class="book_cover" src="resources/kotd.jpg" alt="Book Cover">
+  <img class="book_cover" src="resources/thesis_cover.jpg" alt="Book Cover">
   <div class="right_half">
     <h1>PhD Thesis</h1>
     <h2>In French</h2>

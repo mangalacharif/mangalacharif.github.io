@@ -10,7 +10,7 @@ stylesheet: /resources/main.css
 
 ![Picture of Mangala El Charif with a city background](/resources/home.jpg)
 
-### I am a Lebanese trilingual writer and academic researcher specializing in comparative literature, holding a Ph.D degree from the Sorbonne University in Paris.
+### I am a Lebanese trilingual writer and academic researcher specializing in comparative literature. I received my Ph.D from the the Sorbonne University in Paris with highest honors.
 
 <div class="block_link">
   <a href="thesis">More About My Thesis</a>

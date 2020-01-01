@@ -20,6 +20,12 @@ description: This book explores the cognitive depth and the philosophical and ps
 {:.quote}
 ![An outstanding political philosophy research ‒ Ministry of Presidential Affairs, UAE](/resources/quote2.png)
 
+{:.no_margins}
+![](resources/sign.jpg)
+
+{:.quote}
+![An extensive analytical depth ‒ National Archives, UAE](/resources/quote1.png)
+
 # Synopsis
 
 {:.multicols}
