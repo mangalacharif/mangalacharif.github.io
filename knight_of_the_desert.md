@@ -17,6 +17,9 @@ description: This book explores the cognitive depth and the philosophical and ps
 # Such as a synopsis or link to buying the book, extra images etc.
 ---
 
+{:.quote}
+![An outstanding political philosophy research ‒ Ministry of Presidential Affairs, UAE](/resources/quote2.png)
+
 # Synopsis
 
 {:.multicols}

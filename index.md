@@ -17,3 +17,8 @@ stylesheet: /resources/main.css
 </div>
 
 <br>
+
+{:.large.quote}
+![A very talented lady that I’m grateful to have learnt so much from ‒ Her Highness Sheikha Shamma bint Sultan bin Khalifa Al Nahyan, a progressive, educated and entrepreneurial member of the Royal family of the United Arab Emirates and CEO of the Alliances for Global Sustainability.](/resources/quote3.png)
+
+![Picture of Mangala El Charif](/resources/home2.jpg)

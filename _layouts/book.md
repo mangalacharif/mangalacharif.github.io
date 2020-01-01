@@ -12,6 +12,4 @@ stylesheet: /resources/book.css
   </div>
 </div>
 
-<div class='teaser'>⤋ &nbsp; Synopsis &nbsp; ⤋</div>
-
 {{ content }}
