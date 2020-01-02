@@ -11,7 +11,7 @@ title: Knight of the Desert
 subtitle: In Arabic (English Coming Soon)
 
 # Short Description of the book
-description: This book explores the cognitive depth and the philosophical and psychological dimensions of the sayings of Sheikh Zayed bin Sultan Al Nahyan.
+description: This book explores the cognitive depth and the philosophical and psychological dimensions of the sayings of Sheikh Zayed bin Sultan bin Khalifa Al Nahyan.
 
 # Anything after the three minus signs is markdown code you wanna include on this page
 # Such as a synopsis or link to buying the book, extra images etc.
