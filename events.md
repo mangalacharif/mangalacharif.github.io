@@ -11,7 +11,7 @@ stylesheet: /resources/main.css
     Your device doesn't support this video.
 </video>
 
-Launching of the Arabic version of the book « Knight of the desert » within the activities of the Abu Dhabi International Book Fair.
+Launching of the Arabic version of the book « Knight of the desert » within the activities of the Abu Dhabi International Book Fair (2019).
 
 The launching ceremony was witnessed by His Excellency Sheikh Nahyan bin Mubarak Al Nahyan, Minister of Tolerance, Her Excellency Sheikha Lubna Al Qasimi, Sheikh Ahmed bin Sultan bin Saqr Al Qasimi, Sheikh Dhiab bin Khalifa bin Shakhbut Al Nahyan and His Excellency Nafdeeb Singh Suri, Ambassador of the Republic of India to the country.
 
